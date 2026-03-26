@@ -2,6 +2,8 @@
 
 ## 基本情報
 
+<!-- textlint-disable -->
+
 | key      | value                                |
 |----------|--------------------------------------|
 | 氏名     | 古頭 直気 (Naoki Furuto)             |
@@ -9,11 +11,14 @@
 | 居住地   | 東京都                               |
 | 最終学歴 | 筑波大学大学院システム情報工学研究群 |
 
+<!-- textlint-enable -->
+
 ---
 
 ## 保有スキル
 
 - Go/TypeScript によるバックエンドからフロントエンドの横断的な開発経験
+    - BE と FE を触る割合は 8:2 くらい
 - gRPC/GraphQL を用いたマイクロサービスアーキテクチャの設計・実装
 - ドメイン駆動設計（DDD）に基づくドメインモデリング
 - Protocol Buffers による API スキーマ定義、命名規約・ステータスコード設計などの API 設計
@@ -24,30 +29,23 @@
 
 ## 技術スタック
 
-<div style="display: grid; gap: 15px; grid-col; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));">
+### 言語
 
-<div>
-
-| 言語       | 業務経験 |
+| 名前       | 業務経験 |
 |------------|----------|
-| Go         | 1.5 年    |
-| TypeScript | 1.5 年    |
-| Python     | 2.5 年      |
+| Go         | 1.5 年   |
+| TypeScript | 1.5 年   |
+| Python     | 2.5 年   |
 
-</div>
+### フレームワーク
 
-<div>
-
-| フレームワーク | 業務経験 |
-|----------------|----------|
-| Vue3           | 1.5 年    |
-| React          | 2 ヶ月    |
-| GraphQL        | 1.5 年    |
-| gRPC           | 1.5 年    |
-| Docker         | 2 年      |
-
-</div>
-</div>
+| 名前    | 業務経験 |
+|---------|----------|
+| Vue3    | 1.5 年   |
+| React   | 2 ヶ月   |
+| GraphQL | 1.5 年   |
+| gRPC    | 1.5 年   |
+| Docker  | 2 年     |
 
 ---
 
