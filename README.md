@@ -1,5 +1,10 @@
 # Naoki's resume
 
+## Data
+
+- [GitHub Pages](https://naoking158.github.io/resume/)  
+- [PDF](https://github.com/naoking158/resume/releases)  
+
 ## Features
 
 ### 💅 Lint text
